@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Wiseared
 I am a self taught java and javascript developer. 
-I am 16 years old and from the netherlands.
+I am 17 years old and from the netherlands.
 
 <!--
 **Wiseared/Wiseared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
